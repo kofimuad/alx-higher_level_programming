@@ -11,3 +11,7 @@ A function that adds all unique integers in a list (only once for each integer)
 
 ## Task 3 - Present in both
 A function that returns a set of common elements in 2 sets.
+
+## Task 4 - Only differents
+A function that returns a set of all elements present in only one set
+````
