@@ -18,3 +18,6 @@ A function that returns a set of all elements present in only one set
 ## Task 5 - Number of keys
 A function that returns the number of keys in a dictionary
 
+## Task 6 - Print sorted dictionary
+A fucntion that prints a dictionary by ordered keys
+
