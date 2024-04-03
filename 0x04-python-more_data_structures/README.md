@@ -14,4 +14,7 @@ A function that returns a set of common elements in 2 sets.
 
 ## Task 4 - Only differents
 A function that returns a set of all elements present in only one set
-````
+
+## Task 5 - Number of keys
+A function that returns the number of keys in a dictionary
+
