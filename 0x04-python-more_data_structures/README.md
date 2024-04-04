@@ -24,4 +24,6 @@ A fucntion that prints a dictionary by ordered keys
 ## Task 7 - Updated dictionary
 A function that replaces or adds key/value to a dictionary
 
-## Task 8 - 
+## Task 8 - Simple delete by key
+A function that deletes a key in a dictionary
+
