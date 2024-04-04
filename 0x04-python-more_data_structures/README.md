@@ -21,3 +21,7 @@ A function that returns the number of keys in a dictionary
 ## Task 6 - Print sorted dictionary
 A fucntion that prints a dictionary by ordered keys
 
+## Task 7 - Updated dictionary
+A function that replaces or adds key/value to a dictionary
+
+## Task 8 - 
