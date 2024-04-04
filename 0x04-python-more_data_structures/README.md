@@ -27,3 +27,5 @@ A function that replaces or adds key/value to a dictionary
 ## Task 8 - Simple delete by key
 A function that deletes a key in a dictionary
 
+## Task 9 - Multiply by 2
+A function that returns a new dictionary with all values multiplied by 2
