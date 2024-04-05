@@ -29,3 +29,6 @@ A function that deletes a key in a dictionary
 
 ## Task 9 - Multiply by 2
 A function that returns a new dictionary with all values multiplied by 2
+
+## Task 10 - Best Score
+A function that returns a key with the biggest integer value.
