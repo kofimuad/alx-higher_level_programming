@@ -37,3 +37,6 @@ A function that returns a key with the biggest integer value.
 A function that returns a list with all values multiplied by a number without using any loops.
 map(func, seq) the function here would be replaced by lambda(variables: equation). then all would be in a list.
 
+## Task 12 - Roman to integer
+Create a function def roman_to_int(roman_string): that converts a roman numeral to an interger
+
