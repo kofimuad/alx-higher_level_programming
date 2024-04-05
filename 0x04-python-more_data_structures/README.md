@@ -32,3 +32,8 @@ A function that returns a new dictionary with all values multiplied by 2
 
 ## Task 10 - Best Score
 A function that returns a key with the biggest integer value.
+
+## Task 11 - Multiply by using map
+A function that returns a list with all values multiplied by a number without using any loops.
+map(func, seq) the function here would be replaced by lambda(variables: equation). then all would be in a list.
+
