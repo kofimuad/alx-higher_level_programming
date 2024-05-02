@@ -38,4 +38,4 @@ class Square:
             for j in range(self.__size):
                 print("")
         if self.__size == 0:
-            pri__sizeof__i
+            print("")
