@@ -1,0 +1,21 @@
+>>> say_my_name = __import__('3-say_my_name').say_my_name
+
+# had first and last name
+>>> say_my_name("John", "Smith")
+My name is John Smith
+
+# different name, two valid args
+>>> say_my_name("Walter", "White")
+My name is Walter White
+
+# just first name
+>>> say_my_name("Bob")
+My name is Bob 
+
+# first name not string
+>>> say_my_name(12, "White")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/home/hydra/Desktop/coding/ALX/alx-higher_level_programming/0x07-python-test_driven_development/3-say_my_name.py", line 12, in say_my_name
+    raise TypeError("{:} must be a string".
+TypeError: first_name must be a string
