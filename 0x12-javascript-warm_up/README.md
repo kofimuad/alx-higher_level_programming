@@ -11,3 +11,9 @@ Prints messages depending on the number of arguments passed. process.argv used.
 'const { argv } = require('node:process')' => This gets the argv property from the process module and allows you to access
 command line arguments.
 
+## Task 3 - Value of my argument
+Print the first argument passed to the script. Here, I made use of the forEach method. I passed to it the val and index
+of each argument. Then stored the first argument in a varibale.
+argv.forEach((val, index) => if (index === 2) {firstArg = val} if (index >= 2)  {count++}). This is basically the code.
+
+
