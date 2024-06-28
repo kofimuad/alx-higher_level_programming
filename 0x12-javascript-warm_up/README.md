@@ -35,3 +35,6 @@ Using a loop, you print C a defined amount of time, the value of the number of t
 ## Task 8 - Square
 Building a square; loop in a loop. row stores rows and adds rows up and then prints when condition is met and restarts again.
 
+## Task 9 - Add
+store process.argv[2] in a and then process.argv[3] in b. Then add(a, b). And then use console.log(add())
+
