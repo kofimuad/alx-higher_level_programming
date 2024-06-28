@@ -38,3 +38,6 @@ Building a square; loop in a loop. row stores rows and adds rows up and then pri
 ## Task 9 - Add
 store process.argv[2] in a and then process.argv[3] in b. Then add(a, b). And then use console.log(add())
 
+## Task 10 - Factorial
+Encounters a lot of errors here, mostly with typing. This function is a recursive one. n * (n-1)!
+
