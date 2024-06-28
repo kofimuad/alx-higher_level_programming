@@ -26,4 +26,6 @@ to the Node.js executable and script file respectively.
 first argument converted to an integer - use of ternary operator. isNan() used Math.floor() rounds up number, Number()
 coverts string to number.
 
+## Task 6 - Loop of languages
+Using a for loop to print sentences. I stored the strings in an array and called it by its indexes.
 
