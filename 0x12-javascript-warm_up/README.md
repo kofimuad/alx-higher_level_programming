@@ -16,4 +16,10 @@ Print the first argument passed to the script. Here, I made use of the forEach m
 of each argument. Then stored the first argument in a varibale.
 argv.forEach((val, index) => if (index === 2) {firstArg = val} if (index >= 2)  {count++}). This is basically the code.
 
+## Task 4 - Create a sentence
+In this one I used a tenary operator after the shebang. The task wanted us to print the first and second arguments we type 
+on the console on the right and left side of is. That is "is" would be entre the two arguments. process.argv[2] is the first
+argument we pass as we all know and process.argv[3] is the second. process.argv[0] and process.argv[1] are reserved for the path
+to the Node.js executable and script file respectively.
+
 
