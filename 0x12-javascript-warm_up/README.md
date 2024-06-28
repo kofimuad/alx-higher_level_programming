@@ -32,3 +32,6 @@ Using a for loop to print sentences. I stored the strings in an array and called
 ## Task 7 - I love C
 Using a loop, you print C a defined amount of time, the value of the number of times you print "I love C" is stored in the first argument
 
+## Task 8 - Square
+Building a square; loop in a loop. row stores rows and adds rows up and then prints when condition is met and restarts again.
+
