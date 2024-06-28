@@ -15,7 +15,7 @@ argv.forEach((val, index) => {
 });
 
 if (numArgs === 0) {
-  console.log('No Argument');
+  console.log('No argument');
 } else {
   console.log(firstArg);
 }
