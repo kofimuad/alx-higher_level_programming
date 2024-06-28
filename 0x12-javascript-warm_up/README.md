@@ -22,4 +22,8 @@ on the console on the right and left side of is. That is "is" would be entre the
 argument we pass as we all know and process.argv[3] is the second. process.argv[0] and process.argv[1] are reserved for the path
 to the Node.js executable and script file respectively.
 
+## Task 5 - An integer
+first argument converted to an integer - use of ternary operator. isNan() used Math.floor() rounds up number, Number()
+coverts string to number.
+
 
