@@ -29,3 +29,6 @@ coverts string to number.
 ## Task 6 - Loop of languages
 Using a for loop to print sentences. I stored the strings in an array and called it by its indexes.
 
+## Task 7 - I love C
+Using a loop, you print C a defined amount of time, the value of the number of times you print "I love C" is stored in the first argument
+
