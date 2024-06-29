@@ -41,3 +41,8 @@ store process.argv[2] in a and then process.argv[3] in b. Then add(a, b). And th
 ## Task 10 - Factorial
 Encounters a lot of errors here, mostly with typing. This function is a recursive one. n * (n-1)!
 
+## Task 11 - Second biggest
+Catch and print the second biggest number. I used sort to arrange them in descending order, then printed the second argument.
+First get argv from process. Store in array, use sort to arrange. sort((a, b) => b - a) -> this arranges in descending order of magnitude,
+then console.log(array[1]) to get the second biggest.
+
