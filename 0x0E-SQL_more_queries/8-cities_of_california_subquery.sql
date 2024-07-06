@@ -1,4 +1,5 @@
 -- List all cities
-SELECT id, name FROM hbtn_0d_usa.cities
+-- Databse name would be passed into command
+SELECT id, name FROM cities
 WHERE state_id IN (SELECT id FROM states WHERE name='California')
-ORDER BY id ASC;
+ORDER BY id;
