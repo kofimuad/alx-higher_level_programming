@@ -12,5 +12,5 @@ WHERE g.name NOT IN (
 	ON g.id = s.genre_id
 	JOIN tv_shows AS t
 	ON t.id = s.show_id
-	WHERE t.id = 8)
+	WHERE t.title = 'Dexter')
 ORDER BY g.name;
