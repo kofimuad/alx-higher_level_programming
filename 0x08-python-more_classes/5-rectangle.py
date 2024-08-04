@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 3-rectangle.py
+# 5-rectangle.py
 """Defines a rectangle class"""
 
 
@@ -64,3 +64,12 @@ class Rectangle:
             if i != self.__height - 1:
                 rect.append("\n")
         return ("".join(rect))
+
+    def __repr__(self):
+        """Returns string rep of rect to recreate a new instance"""
+        return "Rectangle({}, {})".format(
+            str(self.__width), str(self.__height))
+
+    def __del__(self):
+        """Prints message for every deletion of rectangle."""
+        print("Bye rectangle...")
