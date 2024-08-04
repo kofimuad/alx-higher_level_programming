@@ -18,7 +18,7 @@ class Rectangle:
     @property
     def width(self):
         """Get width of the rectangle"""
-        return self.__width # the "__" makes it private
+        return self.__width  # the "__" makes it private
 
     @width.setter
     def width(self, value):
